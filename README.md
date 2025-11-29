@@ -7,3 +7,9 @@ The portfolio contains the following:
 + Skills
 + Education
 + Projects both completed and ongoing
+
+To see the portfolio:
++ Load the terminal or use VS Code and load the terminal there.
++ type "cd assignment-6-portfolio"
++ then type "cd AlVasquez88.github.io"
++ finally, type "npm run dev" to see the website.
